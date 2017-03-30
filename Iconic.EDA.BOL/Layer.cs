@@ -1,4 +1,4 @@
-﻿namespace Iconic.EDA
+﻿namespace Iconic.EDA.BOL
 {
     public partial class Layer
     {

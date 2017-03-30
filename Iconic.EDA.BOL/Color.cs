@@ -1,8 +1,11 @@
-﻿namespace Iconic.EDA
+﻿namespace Iconic.EDA.BOL
 {
     public class Color
     {
-        public int Id { get; set; } = 0;
-        public int Name { get; set; }
+        public string Name { get; set; }
+        public int Red { get; set; }
+        public int Green { get; set; }
+        public int Blue { get; set; }
+        public int Alpha { get; set; }
     }
 }
